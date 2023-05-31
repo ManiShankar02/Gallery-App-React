@@ -1,0 +1,21 @@
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 26px;
+  font-weight: bold;
+  margin-top: 26px;
+}
+
+.para {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.thumbnails-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0px;
+}
